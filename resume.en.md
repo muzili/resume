@@ -11,16 +11,21 @@ Personal Details
 Introduction
 ------------
 
-I am a successful software engineer with over 8 years experience in the embedded software development
-and management. I have won several promotions for the excellent work in AlphaNetworks INC.Worked in
-various multimedia chip and platform. Experience in software development for HD Media Plyaer and Set-Top
-Box. Experience in C/C++ language, embedded Linux, and Multi-threading, IPC, Task synchronization,
-JTAG-Debuggers, etc.
+I am a successful manager and software engineer with over 11 years experience in the embedded software development and management. Worked in various multimedia chips and platforms. Experience in software development for HD Media Plyaer, OTT, STB and TV. Experience in C/C++ language, embedded Linux, and Multi-threading, IPC, Task synchronization, JTAG-Debuggers, etc. Successful experience with customer communications and management.
 
 Career History
 --------------
+*11/2011 - present*
 
-*10 / 2010 to Present*
+**Manager, Marvell Technology (Shanghai) Ltd**
+
+* 2012: Lead the 1st GTV IPSTB development and support for LGE, minimum effort, maximum shipments for marvell so far.
+* 2012 ~ 2013: Lead the team to develop the Vizio Co-Star GTV 3.0.
+* 2013: Took over the SBT system, shorten the release duration to two days from one or two weeks.
+* 2013: Android 4.2.2/4.3 SDK bring up, development and release，successfully shipped multiple SBT products.
+* 2014: Support TPVision TV as AE PM，help TPVision(Philips Brand) release their 1st Android TV successfully.
+
+*10/2010 to 11/2011*
 
 **Manager, Alpha Networks(Chengdu) Co., LTD Shanghai Branch**
 
@@ -68,9 +73,9 @@ Career History
 Qualification Skills
 --------------------
 
-* **Languages** C, Vala, Shell, Javascript, Java, Python, Perl, LaTeX, ConTeXt.
-* **Platform/Chipset** SigmaDesigns(EM8475, EM8620, EM8622, SMP8634, SMP8654, SMP8670), C2(CC110X, CC120X), Hisilicon(3716C)
-* **Other tools** JTAG interface, GNU make, Subversion, GIT, CVS, trac, bugzilla
+* **Languages** C, C++, Java, Vala, Shell, Javascript, Python, Perl, LaTeX, ConTeXt.
+* **Platform/Chipset** Marvell(BG2, BG2CT, BG2Q), SigmaDesigns(EM8475, EM8620, EM8622, SMP8634, SMP8654, SMP8670), C2(CC110X, CC120X), Hisilicon(3716C)
+* **Other tools** JTAG interface, GNU make, Subversion, GIT, CVS, trac, JIRA, bugzilla, Gerrit, Jenkins.
 
 Education
 ---------
